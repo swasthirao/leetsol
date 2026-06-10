@@ -1,5 +1,5 @@
 class Solution {
-public:
+public://proper 2 pointer approach..
     vector<int> sortArrayByParity(vector<int>& nums) {
        int left=0;
        int right=nums.size()-1;
